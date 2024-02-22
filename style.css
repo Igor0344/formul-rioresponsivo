@@ -1,0 +1,103 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+@media only screen and (min-width:400px) and (max-width:700px) {
+h1{
+    text-align: center;
+}
+
+}
+.title{
+    margin: 3%;
+}
+.logo{
+    border: solid 1px;
+}
+
+    .logo1 {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+    }
+
+    .corpo {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: #b5b6f2;
+        border: solid 1px;
+        height: 100vh;
+        
+
+    }
+
+    label {
+        display: block;
+        margin: 3%;
+    
+    
+        
+        
+
+
+    }
+    .corpo1{
+    background-color: beige;
+    border: solid 1px;
+    height: 80vh;
+
+    }
+    .login{
+        padding: 2%;
+        
+
+    }
+    .login1{
+        padding: 2%;
+
+    }
+    .button {
+        padding: 10%;
+    display: flex;
+    justify-content: center;
+    }
+    .button button{
+        background-color: aqua;
+        border-radius: 5%;
+      width: 50vw;
+        
+        
+    
+
+    }
+    .icons{
+        padding: 4%;
+       
+        
+    }
+    .icons{
+        display: flex;
+        
+        justify-content: center;
+        align-items: center;
+    }
+    p{
+        font-size: 12px;
+    }
+    h1{
+
+        font-size: 17px;
+    }
+
+
+
+
+
+
+
+
+
+}
